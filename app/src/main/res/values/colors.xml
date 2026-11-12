@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="green_inside_light">#1E7E34</color>
+    <color name="green_inside_container_light">#E8F5E9</color>
+    <color name="red_outside_light">#D32F2F</color>
+    <color name="red_outside_container_light">#FFEBEE</color>
+
+    <color name="green_inside_dark">#81C784</color>
+    <color name="green_inside_container_dark">#1B5E20</color>
+    <color name="red_outside_dark">#E57373</color>
+    <color name="red_outside_container_dark">#B71C1C</color>
+</resources>

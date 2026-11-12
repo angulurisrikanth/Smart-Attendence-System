@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorInsideFence" format="color" />
+    <attr name="colorOutsideFence" format="color" />
+    <attr name="colorInsideFenceContainer" format="color" />
+    <attr name="colorOutsideFenceContainer" format="color" />
+</resources>

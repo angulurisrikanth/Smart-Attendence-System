@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AndroidPratical" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#1976D2</item>
+        <item name="colorInsideFence">@color/green_inside_light</item>
+        <item name="colorOutsideFence">@color/red_outside_light</item>
+        <item name="colorInsideFenceContainer">@color/green_inside_container_light</item>
+        <item name="colorOutsideFenceContainer">@color/red_outside_container_light</item>
+    </style>
+
+    <style name="Theme.AndroidPratical" parent="Base.Theme.AndroidPratical" />
+</resources>
